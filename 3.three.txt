@@ -1,0 +1,2 @@
+Comfortable:
+Javascript, React, ES6, MySQL, Firebase, C Programming, MongoDB.
